@@ -2,6 +2,6 @@
 
 Modified code for SAMD21/51 M0/M4 and RP2040 originally from https://github.com/oldmanfury ... which is modified code originally from https://github.com/okyeron. 
 
-You will have to complie it in Arduino (or IDE of choice) for your specific board. Dont forget to select "TinyUSB" as the USB stack.
+You will have to complie it in Arduino (or IDE of choice) for your specific board. Dont forget to select "TinyUSB" as the USB stack and have the required libraries and board definitions installed.
 
 Original code and installation instructions here: https://github.com/okyeron/neotrellis-monome/tree/master/neotrellis_monome_teensy  and here:https://github.com/oldmanfury/neotrellis-grid-paletted
