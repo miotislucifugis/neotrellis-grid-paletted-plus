@@ -1,6 +1,6 @@
 # neotrellis monome compatible grid
 
-Neotrellis Grid Code for Adafruit M0 and M4 controllers.
+Neotrellis Grid Code for M0 and M4 controllers.
 
 This code should work with any of the various SAMD21/51 M0/M4 controllers such as Adafruit Feather, ItsyBitsy, etc or Seeed Xiao SAMD21 
 
