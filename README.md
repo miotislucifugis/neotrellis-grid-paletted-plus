@@ -1,4 +1,4 @@
-# neotrellis-grid-paletted-for-M0-RP2040
+# neotrellis-grid-paletted-plus-for-M0-RP2040
 
 Modified code for SAMD21/51 M0/M4 and RP2040 originally from https://github.com/oldmanfury ... which is modified code originally from https://github.com/okyeron. 
 
