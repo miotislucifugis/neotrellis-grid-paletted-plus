@@ -386,8 +386,8 @@ void setup() {
   mdp.setAllLEDs(0);
   sendLeds();
   monomeRefresh = 0;
-  if (SelectorOnStartup = true) {
-    isInited == false;
+  if (SelectorOnStartup == true) {
+    isInited = false;
     colorpaletteselector();
   }
 }
