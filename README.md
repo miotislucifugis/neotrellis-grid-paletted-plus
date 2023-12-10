@@ -1,4 +1,4 @@
-# neotrellis-grid-paletted-plus-for-M0-RP2040
+# neotrellis-grid-paletted-plus-for-M0/SAMD21-RP2040-and-Teensy
 
 A modified version of the "paletted" DIY Neotrellis Grid controller originally from https://github.com/oldmanfury ... which is modified code originally from https://github.com/okyeron. 
 
