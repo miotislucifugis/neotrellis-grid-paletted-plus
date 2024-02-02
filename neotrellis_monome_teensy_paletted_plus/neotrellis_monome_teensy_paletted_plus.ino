@@ -9,7 +9,7 @@
 #include "debug.h"
 
 // IF USING ADAFRUIT M0 or M4 BOARD
-#define M0 0
+//#define M0 0
 //#include <Arduino.h>
 //#include <Adafruit_TinyUSB.h>
 //#include <elapsedMillis.h>
@@ -263,7 +263,7 @@ TrellisCallback keyCallback(keyEvent evt) {
       //      sendLeds();
       delay(1000);
       for (int i = 0; i < 8; i++) {
-        colorpalettedisplay(24, i);  //-clears-display-----
+        colorpalettedisplay(colorNum, i);  //-clears-display-----
       }
       trellis.show();
       isDirty = true;
